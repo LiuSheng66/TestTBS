@@ -1,0 +1,6 @@
+# TestTBS
+测试腾讯的TBS服务，实现上网的功能
+MyApp实现内核初始化
+MainActivity是启动后的主活动
+DisplayActivity是主活动中，点击了一个开始按钮后，跳转到的上网活动界面
+X5WebView是webview的设置
